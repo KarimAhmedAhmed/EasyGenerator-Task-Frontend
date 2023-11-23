@@ -6,7 +6,6 @@
 Before getting started with the project, users should have the following prerequisites in place:
 
 - Node.js and npm (Node Package Manager)
-- MongoDB (for data storage)
 
 ## Getting Started
 
@@ -51,8 +50,7 @@ Provide information on how to deploy your application to a production environmen
 
 List the technologies and frameworks used in the project. You can also specify which features are still in progress.
 
-- Nest.js
-- MongoDB
+- ReactJS
 - TypeScript
 
 
