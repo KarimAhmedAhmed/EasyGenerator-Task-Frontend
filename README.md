@@ -17,7 +17,7 @@ To start using and contributing to the project, follow these steps for setting u
 1. Clone the repository:
 
    ```bash
-   git clone[ https://github.com/KarimAhmedAhmed/EasyGenerator-Task-Frontend.git ]
+   git clone https://github.com/KarimAhmedAhmed/EasyGenerator-Task-Frontend.git 
    ```
 
 2. Install project dependencies:
